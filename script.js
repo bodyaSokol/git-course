@@ -1,0 +1,1 @@
+document.body.innderHTML="<h1>Hello from JS</h1>"
